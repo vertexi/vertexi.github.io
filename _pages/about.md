@@ -1,6 +1,6 @@
 ---
 layout: about
-title: FormalVerify LAB
+title: FormalVerify
 permalink: /
 subtitle: 北京邮电大学<a href='https://see.bupt.edu.cn/info/1049/2057.htm'>郁文生</a>团队
 
